@@ -1,22 +1,30 @@
 [
   {
     "tag": "bitcoin",
-    "title": "Bitcoin",
-    "story": "News Story....."
+    "title": "Bitcoin to rally back to $20000",
+    "story": "This is the news story!<br/> Just a Placeholder for news <br/><br/> checking double line break!!",
+    "cred": "true",
+    "source": "twitter"
+  },
+  {
+    "tag": "litecoin",
+    "title": "Litecoin is shit",
+    "story": "This is the news story!<br/> Just a Placeholder for news <br/><br/> checking double line break!!",
+    "cred": "true",
+    "source": "twitter"
   },
   {
     "tag": "bitcoin",
-    "title": "Bitcoin",
-    "story": "News Story....."
+    "title": "Bitcoin to rally back to $20000",
+    "story": "This is the news story!<br/> Just a Placeholder for news <br/><br/> checking double line break!!",
+    "cred": "true",
+    "source": "twitter"
   },
   {
     "tag": "bitcoin",
-    "title": "Bitcoin",
-    "story": "News Story....."
-  },
-  {
-    "tag": "bitcoin",
-    "title": "Bitcoin",
-    "story": "News Story....."
+    "title": "Bitcoin to rally back to $20000",
+    "story": "This is the news story!<br/> Just a Placeholder for news <br/><br/> checking double line break!!",
+    "cred": "true",
+    "source": "twitter"
   }
 ]
