@@ -2,7 +2,7 @@
   {
     "tag": "bitcoin",
     "title": "Bitcoin to rally back to $20000",
-    "story": "This is the news story!<br/> Just a Placeholder for news <br/><br/> checking double line break!!",
+    "story": "This is the news story!<br/> Just a Placeholder for news <br/> <br/> checking double line break!!",
     "cred": "true",
     "source": "twitter"
   },
