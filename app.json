@@ -5,7 +5,7 @@
     "story": "This is the news story!<br/> Just a Placeholder for news <br/> <br/> checking double line break!!",
     "cred": "true",
     "source": "twitter",
-    "img": "../icons/BTC.png"
+    "img": "https://raw.githubusercontent.com/yashyadav/myRepository/master/BTC.png"
   },
   {
     "tag": "litecoin",
@@ -13,7 +13,7 @@
     "story": "This is the news story!<br/> Just a Placeholder for news <br/><br/> checking double line break!!",
     "cred": "true",
     "source": "twitter",
-    "img": "../icons/LTC.png"
+    "img": "https://raw.githubusercontent.com/yashyadav/myRepository/master/LTC.png"
   },
   {
     "tag": "bitcoin",
@@ -21,7 +21,7 @@
     "story": "This is the news story!<br/> Just a Placeholder for news <br/><br/> checking double line break!!",
     "cred": "true",
     "source": "twitter",
-    "img": "../icons/BTC.png"
+    "img": "https://raw.githubusercontent.com/yashyadav/myRepository/master/BTC.png"
   },
   {
     "tag": "bitcoin",
@@ -29,6 +29,6 @@
     "story": "This is the news story!<br/> Just a Placeholder for news <br/><br/> checking double line break!!",
     "cred": "true",
     "source": "twitter",
-    "img": "../icons/BTC.png"
+    "img": "https://raw.githubusercontent.com/yashyadav/myRepository/master/BTC.png"
   }
 ]
