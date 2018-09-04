@@ -4,27 +4,31 @@
     "title": "Bitcoin to rally back to $20000",
     "story": "This is the news story!<br/> Just a Placeholder for news <br/> <br/> checking double line break!!",
     "cred": "true",
-    "source": "twitter"
+    "source": "twitter",
+    "img":"BTC",
   },
   {
     "tag": "litecoin",
     "title": "Litecoin is shit",
     "story": "This is the news story!<br/> Just a Placeholder for news <br/><br/> checking double line break!!",
     "cred": "true",
-    "source": "twitter"
+    "source": "twitter",
+    "img":"LTC",
   },
   {
     "tag": "bitcoin",
     "title": "Bitcoin to rally back to $20000",
     "story": "This is the news story!<br/> Just a Placeholder for news <br/><br/> checking double line break!!",
     "cred": "true",
-    "source": "twitter"
+    "source": "twitter",
+    "img":"BTC",
   },
   {
     "tag": "bitcoin",
     "title": "Bitcoin to rally back to $20000",
     "story": "This is the news story!<br/> Just a Placeholder for news <br/><br/> checking double line break!!",
     "cred": "true",
-    "source": "twitter"
+    "source": "twitter",
+    "img":"BTC",
   }
 ]
